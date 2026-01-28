@@ -69,7 +69,7 @@ This repository will contain project materials as they are developed:
 
 ## Related Work
 
-This project builds on ongoing collaborative research with [Aron van de Pol](https://github.com/aronvandepol) (PhD Candidate, Korean Studies and Computer Vision, Leiden University) on the digitization and computational analysis of Korean history textbooks. See the related repository: [textbook_kr](https://github.com/aronvandepol/textbook_kr)
+This project builds on ongoing collaborative research with [Aron van de Pol](https://github.com/aronvandepol) (PhD Candidate, Korean Studies and Computer Vision, Leiden University) on the digitization and computational analysis of Korean history textbooks.
 
 ## Contact
 
